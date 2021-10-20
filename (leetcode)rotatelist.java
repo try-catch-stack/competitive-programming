@@ -20,6 +20,8 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+// New line added
+
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
         if (head != null) {
